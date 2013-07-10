@@ -1,0 +1,25 @@
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\bin\Release\DesktopViz.exe
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\bin\Release\DesktopViz.pdb
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Release\DesktopViz.Form1.resources
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Release\DesktopViz.Properties.Resources.resources
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Release\DesktopViz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Release\DesktopViz.exe
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Release\DesktopViz.pdb
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\bin\Release\DesktopViz.exe
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\bin\Release\DesktopViz.pdb
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.Form1.resources
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.Properties.Resources.resources
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.exe
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.pdb
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\bin\Release\DesktopViz.exe
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\bin\Release\DesktopViz.pdb
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.Form1.resources
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.Properties.Resources.resources
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.exe
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Release\DesktopViz.pdb

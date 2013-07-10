@@ -1,0 +1,32 @@
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\bin\Debug\DesktopViz.exe
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\bin\Debug\DesktopViz.pdb
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.Form1.resources
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.Properties.Resources.resources
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.exe
+C:\Documents and Settings\Sean\My Documents\projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.pdb
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\bin\Debug\DesktopViz.exe
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\bin\Debug\DesktopViz.pdb
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.Form1.resources
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.Properties.Resources.resources
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.exe
+C:\Documents and Settings\Sean\My Documents\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.pdb
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\bin\Debug\DesktopViz.exe
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\bin\Debug\DesktopViz.pdb
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.Form1.resources
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.Properties.Resources.resources
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.exe
+C:\Users\Sean\Dropbox\Code\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.pdb
+D:\Sean\Projects\Projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.exe
+D:\Sean\Projects\Projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.pdb
+D:\Sean\Projects\Projects\DiskUseViz\DesktopViz\bin\Debug\DesktopViz.exe
+D:\Sean\Projects\Projects\DiskUseViz\DesktopViz\bin\Debug\DesktopViz.pdb
+D:\Sean\Projects\Projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.Form1.resources
+D:\Sean\Projects\Projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.Properties.Resources.resources
+D:\Sean\Projects\Projects\DiskUseViz\DesktopViz\obj\Debug\DesktopViz.csproj.GenerateResource.Cache
